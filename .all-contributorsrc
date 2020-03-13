@@ -11,18 +11,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "gary",
-      "name": "Gary Iams",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/9971?v=4",
-      "profile": "https://github.com/gary",
-      "contributions": [
-        "code",
-        "infra",
-        "doc",
-        "maintenance"
-      ]
-    },
-    {
       "login": "garyvh2",
       "name": "Gary Valverde Hampton",
       "avatar_url": "https://avatars1.githubusercontent.com/u/21265830?v=4",

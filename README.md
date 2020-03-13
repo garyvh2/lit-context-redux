@@ -23,7 +23,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/gary"><img src="https://avatars1.githubusercontent.com/u/9971?v=4" width="100px;" alt=""/><br /><sub><b>Gary Iams</b></sub></a><br /><a href="https://github.com/garyvh2/lit-context-redux/commits?author=gary" title="Code">💻</a> <a href="#infra-gary" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/garyvh2/lit-context-redux/commits?author=gary" title="Documentation">📖</a> <a href="#maintenance-gary" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/garyvh2"><img src="https://avatars1.githubusercontent.com/u/21265830?v=4" width="100px;" alt=""/><br /><sub><b>Gary Valverde Hampton</b></sub></a><br /><a href="https://github.com/garyvh2/lit-context-redux/commits?author=garyvh2" title="Code">💻</a> <a href="https://github.com/garyvh2/lit-context-redux/commits?author=garyvh2" title="Documentation">📖</a> <a href="#infra-garyvh2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-garyvh2" title="Maintenance">🚧</a></td>
   </tr>
 </table>
