@@ -51,6 +51,6 @@
   "types": "./dist/lit-context-redux.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/doriandres/lit-context-redux.git"
+    "url": "https://github.com/garyvh2/lit-context-redux.git"
   }
 }
