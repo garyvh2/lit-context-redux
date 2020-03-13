@@ -17,8 +17,12 @@ export class PendingList extends LitElement {
 
   add: Function;
 
+  updates: number = 0;
+
   render() {
+    this.updates++;
     return html`
+      Pending List Updates: ${this.updates}
       <h1>Pending Items</h1>
       <input type="text">
       <button @click="${() => this.add(this.input && this.input.value)}">Add</button>

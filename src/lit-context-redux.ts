@@ -7,4 +7,4 @@
  */
 
 export { connect } from './decorators/redux';
-export { ReduxProvider } from "./lib/redux-context-provider";
+export { consumeRedux, ReduxProvider } from "./lib/redux-context-provider";
